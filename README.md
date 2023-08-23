@@ -1,7 +1,7 @@
 # Andrey Shorokhov
 
 ## About me
-Backend Golang developer, researcher focusing on security breaches and complex attacks on infrastructure systems. I have a background as a security engineer with experience at companies like CIAN, NLMK, and AB Rossia Bank. I am currently working on the backend for VK company, one of the top IT companies in the Russian Federation.
+Backend Golang developer, researcher focusing on security breaches and complex attacks on infrastructure systems. I have a background as a security engineer with experience at companies like [CIAN](https://www.cian.ru), [NLMK](https://www.nlmk.ru), and [AB Rossia Bank](https://www.abr.ru). I am currently working on the backend for [VK](https://www.vk.com), one of the top IT companies in the Russian Federation.
 
 ### Technologies working(ed) with
 * Programming Languages - Golang(2+ years), Python(3+ years), Java (6 months), C#(6 months), JS (2+ years), HTML, CSS, SCSS
