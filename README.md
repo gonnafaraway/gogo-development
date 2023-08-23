@@ -5,7 +5,8 @@ Backend Golang developer, researcher focusing on security breaches and complex a
 
 ### Technologies working(ed) with
 * Programming Languages - Golang(2+ years), Python(3+ years), Java (6 months), C#(6 months), JS (2+ years), HTML, CSS, SCSS
-* Databases - PosgreSQL, MongoDB, MSSQL, Redis, Clickhouse
+* Databases - PosgreSQL, MongoDB, MSSQL, Redis, Clickhouse, Elastic
+* Visual - Kibana, Grafana
 * Brokers - Kafka, RabbitMQ, NATS(testing)
 * ORM - SQLAlchemy, GORM, Ent.io
 * Codegen - Ogen
@@ -15,6 +16,8 @@ Backend Golang developer, researcher focusing on security breaches and complex a
 * Secrets - Vault
 * SIEM - Arcsight, Graylog
 * Containers - Docker, K8s, Registry
+* K8s - Kaniko, Cilium, kind, minikube
+* GitOps - ArgoCD
 * OAS - OpenAPIv3
 * VCS - Gitlab, Bitbucket, Gitea
 * CI - Gitlab, Jenkins
