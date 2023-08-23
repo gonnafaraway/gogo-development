@@ -23,5 +23,11 @@ Backend Golang developer, researcher focusing on security breaches and complex a
 * CI - Gitlab, Jenkins
 * SCM - Ansible, SaltStack
 
+### Learning and researching
+* RubyOnRails
+* OTEL
+* Codegen
+* K8s operators
+* BadgerDB
 
 
