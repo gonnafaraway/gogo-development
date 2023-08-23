@@ -1,9 +1,9 @@
 # Andrey Shorokhov
 
-## :pizza:About me
+## About me
 Backend Golang developer, researcher focusing on security breaches and complex attacks on infrastructure systems. I have a background as a security engineer with experience at companies like [CIAN](https://www.cian.ru), [NLMK](https://www.nlmk.ru), and [AB Rossia Bank](https://www.abr.ru). I am currently working on the backend for [VK](https://www.vk.com), one of the top IT companies in the Russian Federation.
 
-### :pushpin:Technologies working(ed) with
+### Technologies working(ed) with
 * Programming Languages - Golang(2+ years), Python(3+ years), Java (6 months), C#(6 months), JS (2+ years), HTML, CSS, SCSS
 * Databases - PosgreSQL, MongoDB, MSSQL, Redis, Clickhouse, Elastic
 * Visual - Kibana, Grafana
@@ -23,13 +23,13 @@ Backend Golang developer, researcher focusing on security breaches and complex a
 * CI - Gitlab, Jenkins
 * SCM - Ansible, SaltStack
 
-### :pushpin:Learning and researching
+### Learning and researching
 * RubyOnRails
 * OTEL
 * Codegen
 * K8s operators
 * BadgerDB
 
-### :pushpin:Cool projects i recommend to use
+### Cool projects i recommend to use
 * https://github.com/ogen-go/ogen
 * https://github.com/ClickHouse/ch-go
