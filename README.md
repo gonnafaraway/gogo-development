@@ -30,4 +30,6 @@ Backend Golang developer, researcher focusing on security breaches and complex a
 * K8s operators
 * BadgerDB
 
-
+### Cool projects i recommend to use
+* https://github.com/ogen-go/ogen
+* https://github.com/ClickHouse/ch-go
